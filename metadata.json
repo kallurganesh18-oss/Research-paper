@@ -1,0 +1,7 @@
+{
+  "name": "PaperPulse - CS Research Agent",
+  "description": "Advanced Computer Science Research Agent specializing in paper parsing, architectural flowcharts, and student project opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
